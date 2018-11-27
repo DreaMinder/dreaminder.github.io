@@ -1,20 +1,14 @@
-/*!
-  * tiptap vundefined
-  * (c) 2018 Scrumpy UG (limited liability)
-  * @license MIT
-  */
+/**!
+ * Sortable
+ * @author	RubaXa   <trash@rubaxa.org>
+ * @license MIT
+ */
 
-/*!
-  * tiptap vundefined
-  * (c) 2018 Scrumpy UG (limited liability)
-  * @license MIT
-  */
-
-/*!
-  * tiptap vundefined
-  * (c) 2018 Scrumpy UG (limited liability)
-  * @license MIT
-  */
+/**!
+ * Sortable
+ * @author	RubaXa   <trash@rubaxa.org>
+ * @license MIT
+ */
 
 /*!
  * Quill Editor v1.3.6
@@ -36,26 +30,26 @@
  * Released under the MIT License.
  */
 
-/**
-  * vue-router v3.0.1
-  * (c) 2017 Evan You
+/*!
+  * vue-router v3.0.2
+  * (c) 2018 Evan You
   * @license MIT
   */
 
 /**
- * vue-meta v1.5.5
+ * vue-meta v1.5.6
  * (c) 2018 Declan de Wet & Sébastien Chopin (@Atinux)
  * @license MIT
  */
 
 /*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
+	object-assign
+	(c) Sindre Sorhus
+	@license MIT
+	*/
 
 /*!
- * vue-no-ssr v1.0.0
+ * vue-no-ssr v1.1.0
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */
@@ -290,6 +284,8 @@ object-assign
 
 /*! ../../mixins/toggleable */
 
+/*! ../../util/helpers */
+
 /*!**************************************!*\
   !*** ./src/components/VBtn/index.ts ***!
   \**************************************/
@@ -387,6 +383,8 @@ object-assign
 /*! ../../mixins/button-group */
 
 /*! ../../util/helpers */
+
+/*! ../../util/console */
 
 /*!***************************************************!*\
   !*** ./src/components/VCarousel/VCarouselItem.ts ***!
@@ -571,6 +569,8 @@ object-assign
 /*! exports provided: default */
 
 /*! ../../transitions/expand-transition */
+
+/*! ../../../util/helpers */
 
 /*!**************************************************!*\
   !*** ./src/components/VDataTable/mixins/foot.js ***!
@@ -2528,8 +2528,6 @@ object-assign
 
 /*! exports provided: default */
 
-/*! ../../util/helpers */
-
 /*!*********************************************!*\
   !*** ./src/components/transitions/index.js ***!
   \*********************************************/
@@ -3437,15 +3435,3 @@ object-assign
   \******************************************************************************/
 
 /*! no static exports found */
-
-/**!
- * Sortable
- * @author	RubaXa   <trash@rubaxa.org>
- * @license MIT
- */
-
-/**!
- * Sortable
- * @author	RubaXa   <trash@rubaxa.org>
- * @license MIT
- */
